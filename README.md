@@ -1,4 +1,4 @@
-# AI-search-agent
+# Pacman: AI Search
 
 In this project, I recreated the classic version of Pacman, including ghosts and characters. The main focus was on implementing various search algorithms such as minimax, expectimax, and alpha-beta pruning, in order to optimize Pacman's decision-making process in the presence of adversarial agents.
 
